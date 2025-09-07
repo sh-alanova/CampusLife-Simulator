@@ -1,0 +1,5 @@
+{
+  "campus_name": "ITMO University",
+  "default_energy": 100,
+  "subjects": ["Python", "Алгоритмы", "Базы данных", "ООП", "Git"]
+}
